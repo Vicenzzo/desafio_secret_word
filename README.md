@@ -8,7 +8,7 @@ Um jogo  de palavras secretas feito desenvolvido na biblioteca ReactJS, o objeti
 
 
 
-<img src="C:\Users\vicen\OneDrive - Etec Centro Paula Souza\Desktop\Game1.PNG" alt="Game1" style="zoom: 50%;" />
+<img src="https://github.com/Vicenzzo/desafio_secret_word/blob/master/src/assets/img1.PNG" alt="Game1" style="zoom: 50%;" />
 
 
 
