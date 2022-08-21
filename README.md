@@ -8,19 +8,29 @@ Um jogo  de palavras secretas feito desenvolvido na biblioteca ReactJS, o objeti
 
 
 
-<img src="https://github.com/Vicenzzo/desafio_secret_word/blob/master/src/assets/img2.PNG" alt="Game1" style="width: 600px" />
+<img src="https://github.com/Vicenzzo/desafio_secret_word/blob/master/src/assets/img2.PNG" alt="Game1" style="width: 400px" />
 
 
 
 
 
-<img src="https://github.com/Vicenzzo/desafio_secret_word/blob/master/src/assets/img1.PNG" alt="game2" style="width: 600px" />
 
 
 
 
 
-<img src="https://github.com/Vicenzzo/desafio_secret_word/blob/master/src/assets/img3.PNG" alt="game3" style="width: 600px" />
+<img src="https://github.com/Vicenzzo/desafio_secret_word/blob/master/src/assets/img1.PNG" alt="game2" style="width: 400px" />
+
+
+
+
+
+
+
+
+
+
+<img src="https://github.com/Vicenzzo/desafio_secret_word/blob/master/src/assets/img3.PNG" alt="game3" style="width: 400px" />
 
 
 
